@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko"
 title                    : "프로그래밍"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "블로그"
 name                     : "송수아"
 description              : "프로그래밍 연습을 위한 블로그"
 url                      : # the base hostname & protocol for your site e.g. "http://SooaSong.github.io"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "송수아"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : 용인외대부고 2학년 *송수아* 입니다.
+  location         : "경기도, 대한민국"
+  email            : "21-21048@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
