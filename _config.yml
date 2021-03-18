@@ -100,9 +100,9 @@ author:
   location         : "경기도, 대한민국"
   email            : "21-21048@hafs.hs.kr"
   links:
-    - label: "21-21048@hafs.hs.kr"
+    - label: # "21-21048@hafs.hs.kr"
       icon: "fas fa-fw fa-envelope-square"
-      url: "21-21048@hafs.hs.kr"
+      url: # "21-21048@hafs.hs.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
