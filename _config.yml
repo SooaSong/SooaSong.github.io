@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "프로그래밍"
+title                    : "IT 활동"
 title_separator          : "-"
-subtitle                 : "블로그"
+subtitle                 : "BLOG"
 name                     : "송수아"
-description              : "프로그래밍 연습을 위한 블로그"
+description              : "IT 활동을 위한 블로그"
 url                      : # the base hostname & protocol for your site e.g. "http://SooaSong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "송수아"
   avatar           : "assets/images/avatar_magpie3.jpg"
-  bio              : 용인외대부고 2학년 *송수아* 입니다.
-  location         : "경기도, 대한민국"
+  bio              : 용인외대부고 2학년 10반 48번 송수아 입니다.
+  location         : "경기도 성남시, 대한민국"
   email            : "21-21048@hafs.hs.kr"
   links:
     - label: # "21-21048@hafs.hs.kr"
