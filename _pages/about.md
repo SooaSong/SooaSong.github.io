@@ -1,7 +1,7 @@
 ---
 title: "코멘트 뱅크(Comment Bank) 소개" 
 permalink: /about/
-layout: single
+layout: post
 ---
 
 - 코멘트 뱅크(Comment Bank)는 **파이썬** 학습자들이 스스로 학
